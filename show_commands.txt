@@ -1,0 +1,8 @@
+show run
+show interface status
+show version
+show ip interface brief
+show ip route
+show ip ospf neighbors
+show cdp neighbors
+show mac address-table
